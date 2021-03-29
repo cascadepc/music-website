@@ -5,7 +5,7 @@
 .navbar {
     background-color: black;
     margin-left: -8px;
-    margin-top: -8px;
+    margin-top: -0px;
 }
 
 .navbar a{
@@ -13,7 +13,7 @@
     text-align: center;
     color: white;
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 16px 20px;
 }
 
 .navbar a:hover {
@@ -38,7 +38,7 @@
     align-content: center;
     width: 250px;
     height: 282px;
-    top: 50px;
+    top: 55px;
     left: 25px;
 }
 
@@ -50,6 +50,6 @@ h1{
 }
 
 h2{
-
-
+    font-size: 24px;
+    color: white;
 }
