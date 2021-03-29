@@ -1,0 +1,55 @@
+﻿body{
+    background-color: black;
+}
+
+.navbar {
+    background-color: black;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+
+.navbar a{
+    float: left;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.navbar a:hover {
+    background-color: #FF5FA2;
+    color: black;
+}
+
+.mainVideo{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.Video {
+    position: relative;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.logo{
+    position: absolute;
+    align-content: center;
+    width: 250px;
+    height: 282px;
+    top: 50px;
+    left: 25px;
+}
+
+h1{
+    font-size: 64px;
+    color: white;
+    position: center;
+    text-align: center;
+}
+
+h2{
+
+
+}
